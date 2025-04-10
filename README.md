@@ -46,6 +46,12 @@ A simple Python script that logs your daily workouts using the Nutritionix API t
 
 ---
 
+🎥 Demo
+
+![Demo GIF](demo.gif)
+
+---
+
 ## 🛠️ Built With
 
 - [Python](https://www.python.org/)
